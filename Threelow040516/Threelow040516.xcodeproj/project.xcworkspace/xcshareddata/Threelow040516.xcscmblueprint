@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1B6EEFB90DDB34A26F116C3D3227ECA2833C39F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1B6EEFB90DDB34A26F116C3D3227ECA2833C39F4" : 0,
+    "65C2E18906E43EE041A19F29848B0B915743609D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "47188E74-40AC-482F-8751-8BB846C4DFE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1B6EEFB90DDB34A26F116C3D3227ECA2833C39F4" : "Threelow\/",
+    "65C2E18906E43EE041A19F29848B0B915743609D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Threelow040516",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Threelow040516\/Threelow040516.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YasminA13\/Threelow040516.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B6EEFB90DDB34A26F116C3D3227ECA2833C39F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YasminA13\/WordEffects020516.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65C2E18906E43EE041A19F29848B0B915743609D"
+    }
+  ]
+}

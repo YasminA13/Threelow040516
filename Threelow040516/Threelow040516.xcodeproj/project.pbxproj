@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0EA65C4F1CDA48FB007759E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EA65C4E1CDA48FB007759E4 /* main.m */; };
 		0EA65C571CDA4919007759E4 /* Dice.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EA65C561CDA4919007759E4 /* Dice.m */; };
+		0EA65C5A1CDA5B81007759E4 /* GameController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0EA65C591CDA5B81007759E4 /* GameController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		0EA65C4E1CDA48FB007759E4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0EA65C551CDA4919007759E4 /* Dice.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Dice.h; path = ../Dice.h; sourceTree = "<group>"; };
 		0EA65C561CDA4919007759E4 /* Dice.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Dice.m; path = ../Dice.m; sourceTree = "<group>"; };
+		0EA65C581CDA5B81007759E4 /* GameController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameController.h; sourceTree = "<group>"; };
+		0EA65C591CDA5B81007759E4 /* GameController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 				0EA65C4E1CDA48FB007759E4 /* main.m */,
 				0EA65C551CDA4919007759E4 /* Dice.h */,
 				0EA65C561CDA4919007759E4 /* Dice.m */,
+				0EA65C581CDA5B81007759E4 /* GameController.h */,
+				0EA65C591CDA5B81007759E4 /* GameController.m */,
 			);
 			path = Threelow040516;
 			sourceTree = "<group>";
@@ -123,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0EA65C5A1CDA5B81007759E4 /* GameController.m in Sources */,
 				0EA65C571CDA4919007759E4 /* Dice.m in Sources */,
 				0EA65C4F1CDA48FB007759E4 /* main.m in Sources */,
 			);

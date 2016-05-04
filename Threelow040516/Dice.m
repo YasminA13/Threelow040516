@@ -10,9 +10,11 @@
 
 @implementation Dice
 
--(void)rollDice{
+-(void)randomize{
     
     _diceValue = 1 + arc4random_uniform(6); 
 }
+
+
 
 @end
